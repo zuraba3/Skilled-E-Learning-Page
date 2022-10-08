@@ -20,8 +20,8 @@ This is a solution to the [Skilled e-learning landing page](https://www.frontend
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [GitHub Live URL]()
+- Solution URL: [Solution](https://github.com/zuraba3/Skilled-E-Learning-Page)
+- Live Site URL: [GitHub Live URL](https://zuraba3.github.io/Skilled-E-Learning-Page/)
 
 ## My process
 
